@@ -1,2 +1,2 @@
 first commit doing
-second commit doing
+second commit doingthird commit doing
