@@ -4,3 +4,4 @@ second commit doing
 
 third commit doing
 
+fourth line committing.
